@@ -19,7 +19,7 @@ app:
 
 git_merge:
 	$(MAKE) clean
-	@pythona1sense/automation/git_merge.py
+	@python a1sense/automation/git_merge.py
 	@echo "👍 Git Merge (master) successfull!"
 
 git_push:
