@@ -21,6 +21,8 @@ This project utilizes de-identified primary care data, including a variety of pa
 - Demographic Data: Age, gender, lifestyle factors, etc.
 - Clinical Data: Blood pressure, BMI, cholesterol levels, eGFR, urine ACR, smoking status, foot risk, and more.
 - Diagnosis and History: Information on diabetes diagnosis (e.g., type, duration) and other relevant conditions.
+- Initial Training done on a small subset of data.
+- Dataset not publically available.
 
 Each of these features has been carefully selected for its potential contribution to accurately predicting HbA1c levels.
 
