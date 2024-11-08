@@ -1,4 +1,4 @@
-![Header Image](images/header.png)
+![Header Image](images/header2.png)
 
 ## A1Sense: Predicting HbA1c in Primary Care
 
