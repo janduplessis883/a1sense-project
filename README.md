@@ -78,3 +78,6 @@ Future developments for A1Sense may include:
 **A1Sense** is a powerful tool for predicting HbA1c levels in primary care, demonstrating high accuracy and reliability with Gradient Boosting techniques. By providing healthcare providers with timely, data-driven insights, A1Sense has the potential to improve diabetes management, optimize resources, and ultimately enhance patient outcomes in primary care settings. This project exemplifies the role of machine learning in supporting healthcare decision-making and improving chronic disease management.
 
 **A1Sense** is an ongoing project, and feedback or contributions are always welcome. Let’s make primary care more proactive, predictive, and patient-centered together!
+
+<iframe src="path/to/A1Sense_Prediction_Document.pdf" width="100%" height="500px">
+</iframe>
