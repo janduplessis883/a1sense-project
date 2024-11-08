@@ -79,5 +79,3 @@ Future developments for A1Sense may include:
 
 **A1Sense** is an ongoing project, and feedback or contributions are always welcome. Let’s make primary care more proactive, predictive, and patient-centered together!
 
-<iframe src="path/to/A1Sense_Prediction_Document.pdf" width="100%" height="500px">
-</iframe>
